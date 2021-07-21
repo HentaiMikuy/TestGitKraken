@@ -2,7 +2,7 @@
 
 int main(){
 
-    printf("Hello Git!");
+    printf("Hello Gay!");
 
     return 0;
 }
